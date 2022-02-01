@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-api-rick-morty/static/css/main.bf811423.css",
+    "main.js": "/react-api-rick-morty/static/js/main.1fa81f20.js",
+    "static/js/787.23ced5ff.chunk.js": "/react-api-rick-morty/static/js/787.23ced5ff.chunk.js",
+    "static/media/home.jpeg": "/react-api-rick-morty/static/media/home.c98a582958f3360bb37d.jpeg",
+    "index.html": "/react-api-rick-morty/index.html",
+    "main.bf811423.css.map": "/react-api-rick-morty/static/css/main.bf811423.css.map",
+    "main.1fa81f20.js.map": "/react-api-rick-morty/static/js/main.1fa81f20.js.map",
+    "787.23ced5ff.chunk.js.map": "/react-api-rick-morty/static/js/787.23ced5ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf811423.css",
+    "static/js/main.1fa81f20.js"
+  ]
+}
